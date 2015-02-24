@@ -3,4 +3,6 @@ P-adic_Calculator
 
 provides a p-adic expansion of specified rational and prime
 
-Currently only handles negative rationals
+Handles all valid rationals. 
+
+Code isn't very optimal. Lots of redundancies.
